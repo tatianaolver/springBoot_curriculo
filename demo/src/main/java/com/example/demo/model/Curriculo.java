@@ -69,5 +69,4 @@ public class Curriculo {
         this.email = email;
     }
     
-    // Adicione outros getters e setters conforme necessário
 }
